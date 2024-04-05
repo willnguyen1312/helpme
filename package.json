@@ -1,0 +1,9 @@
+{
+  "name": "helpme",
+  "version": "1.0.0",
+  "description": "",
+  "bin": "script.mjs",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
