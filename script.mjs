@@ -14,3 +14,5 @@ await $`git add .`;
 
 // Commit again with the stored message
 await $`git commit -m ${commitMessage}`;
+
+await $`git push -f`;
